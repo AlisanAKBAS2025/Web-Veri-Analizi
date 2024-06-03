@@ -1,6 +1,7 @@
 # Nalburdayım Ürün Verisi Çekme ve Excel'e Yazdırma
 
 Bu proje, [Nalburdayım](https://www.nalburdayim.com) sitesinden ürün verilerini çekip, bu verileri istenilen bir Excel dosyasına yazdırmanıza olanak tanır. Proje, Selenium ve BeautifulSoup kullanarak web scraping yapar ve pandas kullanarak verileri Excel dosyasına yazar.
+[Açıklamalı Videosu](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 
 ## Özellikler
 
